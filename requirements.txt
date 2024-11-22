@@ -1,0 +1,6 @@
+Flask
+python-docx
+reportlab
+PyPDF2
+werkzeug
+docx2pdf
